@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">KFCOMApplication</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_opened">Select an Option</string>
+    <string name="drawer_closed">Karate for Christ</string>
+
+    <string name="Home">Home</string>
+    <string name="Locations">Locations</string>
+    <string name="CurrentMembers">Current Members</string>
+
+    <string name="students_feed">https://gist.githubusercontent.com/anonymous/2abf90d4848026c16a8021b1553b385e/raw/2de546851b326f273e9600fe0e0f80bad6941201</string>
+
+    <string name="pins_feed">https://gist.githubusercontent.com/anonymous/101ffbf7e1aed60b7caf7d3d5418bfde/raw/43b5d1fa6862fd1dce84044821cdf1a9d48b6ca2</string>
+
+    <string name="section_home">Home</string>
+    <string name="section_locations">KFCOM Locations</string>
+    <string name="section_current_members">Our Current KFCOM Members</string>
+
+    <string name="senseiDanQuote">"\"Karate for Christ of Michigan started out with one youth about ten years ago.  A mom came and asked if I could talk to her son in the hopes that I could persuade him to behave.  Now, this boy had been kicked out of school, kicked out of the house, and been in a Juvenile home.  I told her that I doubted if talking would be very helpful at this point and asked if she thought he might do karate with me.  She shrugged her shoulders and said “at this point I am willing to try anything.”  So, karate counseling was born.
+
+Soon another family, via word of mouth, heard about what I was doing and brought their two teens.  Two weeks later another single mom brought her son and for about 6 months I taught them basic karate. Now as the class continued to expand I began searching about for a Christian organization that could serve as a partner for what we were doing.  After looking at several organizations I settled upon Karate for Christ International.  For several years I continued to work as a youth pastor and did the Karate as a side line ministry. Finally, in 2008 I approached another martial arts friend and asked if he would be interested in forming our own non-profit organization so that we could do a martial arts ministry full time.  He was even more excited about it than I was,  so in the fall of 2008 we became Karate for Christ of Michigan.  We continue to report to our parent organization of Karate for Christ International and continue to focus on the main mission of working with at risk youth and their parents through the venue of martial arts, bringing the life changing message of the gospel of Jesus Christ,  and discipling those that already have received salvation through Jesus Christ.
+
+As we have gone about our primary mission, other opportunities have presented themselves. Currently, we teach English classes as a second language to refugees and immigrants.  We have also offered reading lessons to immigrant children who were having problems in school.
+
+So what is Karate for Christ of Michigan?  It is an evangelistic group that works with the local church as an evangelistic group, a mentoring group, a teaching group, a group that was brought together by need and continues to be used by God as we are led by God.\"
+        - Sensei Dan Averill"</string>
+
+    <string name="Welcome">"Welcome to the Karate for Christ of Michigan official app!  Karate for Christ's mission is to bring people closer to God through the martial arts.  We not only strive to equip students with the skills to become great martial artists, but we also teach them to become bold, effective witnesses to Jesus Christ."</string>
+
+    <string name="bibleVerse">"Be strong in the Lord and in his mighty power, Eph. 6:10"</string>
+</resources>
